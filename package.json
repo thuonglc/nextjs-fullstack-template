@@ -1,6 +1,16 @@
 {
   "name": "client",
+  "author": "Thuong Luong <thuongresper@gmail.com>",
+  "description": "A template for creating a production-ready fullstack Next.js application",
+  "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "homepage": "https://github.com/thuonglc",
+  "engines": {
+    "node": ">=16.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
