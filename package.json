@@ -7,7 +7,7 @@
   "license": "MIT",
   "homepage": "https://github.com/thuonglc",
   "engines": {
-    "node": ">=16.0.0",
+    "node": ">=14.0.0",
     "yarn": ">=1.22.0",
     "npm": "please-use-yarn"
   },
@@ -22,13 +22,24 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@apollo/client": "^3.6.9",
     "@emotion/cache": "^11.10.3",
     "@emotion/react": "^11.10.4",
     "@emotion/server": "^11.10.0",
     "@emotion/styled": "^11.10.4",
     "@mui/icons-material": "^5.10.3",
+    "@mui/lab": "^5.0.0-alpha.97",
     "@mui/material": "^5.10.3",
+    "axios": "^0.27.2",
+    "cookie": "^0.5.0",
+    "deepmerge": "^4.2.2",
+    "graphql": "^16.6.0",
+    "i18next": "^21.9.1",
+    "i18next-resources-to-backend": "^1.0.0",
+    "lodash": "^4.17.21",
     "next": "12.2.5",
+    "next-auth": "^4.10.3",
+    "next-i18next": "^12.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
@@ -44,6 +55,8 @@
     "@storybook/manager-webpack5": "^6.5.10",
     "@storybook/react": "^6.5.10",
     "@storybook/testing-library": "^0.0.13",
+    "@types/cookie": "^0.5.1",
+    "@types/lodash": "^4.14.184",
     "@types/node": "18.7.14",
     "@types/react": "18.0.18",
     "babel-loader": "^8.2.5",

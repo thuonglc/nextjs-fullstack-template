@@ -1,0 +1,9 @@
+{
+  "greetings": "Hi! Welcome back",
+  "locale": "English",
+  "language": "Language",
+  "controls": {
+    "change-language": "Change language",
+    "login": "Login"
+  }
+}

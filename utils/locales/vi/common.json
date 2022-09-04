@@ -1,0 +1,9 @@
+{
+  "greetings": "Chào mừng quay trở lại",
+  "locale": "Tiếng Việt",
+  "language": "Ngôn ngữ",
+  "controls": {
+    "change-language": "Đổi ngôn ngữ",
+    "login": "Đăng nhập"
+  }
+}

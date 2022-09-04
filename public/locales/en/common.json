@@ -1,0 +1,12 @@
+{
+  "greetings": "Hi! Welcome back",
+  "locale": "English",
+  "locale-modal-title": "Choose a language and region",
+  "language": "Language",
+  "identifier-text": "Email",
+  "password-text": "Password",
+  "controls": {
+    "change-language": "Change language",
+    "login": "Login"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "greetings": "Chào mừng quay trở lại",
+  "locale": "Tiếng Việt",
+  "locale-modal-title": "Chọn ngôn ngữ và khu vực",
+  "language": "Ngôn ngữ",
+  "identifier-text": "Email",
+  "password-text": "Mật khẩu",
+  "controls": {
+    "change-language": "Đổi ngôn ngữ",
+    "login": "Đăng nhập"
+  }
+}
